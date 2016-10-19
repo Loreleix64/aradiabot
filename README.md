@@ -1,0 +1,2 @@
+# aradiabot
+cool discord bot
